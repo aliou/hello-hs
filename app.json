@@ -1,0 +1,10 @@
+{
+  "name": "Hello, Haskell",
+  "description": "Hello world app using haskell.",
+  "website": "https://github.com/aliou/hello-hs",
+  "repository": "https://github.com/aliou/hello-hs",
+  "success_url": "/",
+  "env": {
+    "BUILDPACK_URL": "https://github.com/begriffs/heroku-buildpack-ghc.git"
+  }
+}
